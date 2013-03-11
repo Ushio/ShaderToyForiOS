@@ -5,3 +5,8 @@ uniform float     iGlobalTime;     // shader playback time (in seconds)<br>
 uniform vec4      iMouse;  <br>
 <br>
 current shader.fs is from https://www.shadertoy.com/view/ldsGRH<br>
+<br>
+<br>
+1, change your valid Bundle Identifier<br>
+2, edit shader.fs<br>
+3, run on device<br>
